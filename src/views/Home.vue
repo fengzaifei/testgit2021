@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="../assets/logo.png">
     <!-- 制作在线学习平台 -->
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    version4
+    version2
   </div>
 </template>
 
